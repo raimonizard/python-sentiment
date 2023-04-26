@@ -1,0 +1,738 @@
+id;global_score;agregate_count;tourist-atraction;opinion;sentiment
+1;8;903;Sagrada Familia;I love it;0.5
+2;1;933;Hotel Wella;I don't like it;0.0
+3;7;211;Park Güell;I love it;0.5
+4;3;485;Hotel Wella;I hate it;-0.8
+5;1;915;Sagrada Familia;I don't like it;0.0
+6;4;484;Park Güell;I don't like it;0.0
+7;9;839;Hotel Wella;I like it;0.0
+8;3;287;Park Güell;I hate it;-0.8
+9;9;315;Sagrada Familia;I love it;0.5
+10;3;930;Sagrada Familia;I don't like it;0.0
+11;3;749;Park Güell;I don't like it;0.0
+12;10;731;Sagrada Familia;I love it;0.5
+13;9;404;Sagrada Familia;I love it;0.5
+14;5;751;Park Güell;I love it;0.5
+15;4;973;Sagrada Familia;I don't like it;0.0
+16;5;279;Hotel Wella;I love it;0.5
+17;10;12;Park Güell;I love it;0.5
+18;10;455;Sagrada Familia;I like it;0.0
+19;3;402;Hotel Wella;I hate it;-0.8
+20;5;440;Hotel Wella;I love it;0.5
+21;4;766;Park Güell;I hate it;-0.8
+22;7;642;Hotel Wella;I love it;0.5
+23;6;743;Park Güell;I love it;0.5
+24;5;840;Sagrada Familia;I like it;0.0
+25;3;654;Sagrada Familia;I hate it;-0.8
+26;1;637;Hotel Wella;I hate it;-0.8
+27;6;138;Park Güell;I love it;0.5
+28;7;86;Sagrada Familia;I like it;0.0
+29;7;352;Park Güell;I like it;0.0
+30;2;402;Hotel Wella;I don't like it;0.0
+31;3;551;Sagrada Familia;I don't like it;0.0
+32;9;297;Park Güell;I like it;0.0
+33;1;982;Park Güell;I hate it;-0.8
+34;7;140;Park Güell;I like it;0.0
+35;9;320;Hotel Wella;I love it;0.5
+36;5;925;Hotel Wella;I like it;0.0
+37;4;936;Park Güell;I don't like it;0.0
+38;9;57;Park Güell;I love it;0.5
+39;6;690;Sagrada Familia;I like it;0.0
+40;2;100;Sagrada Familia;I hate it;-0.8
+41;3;985;Hotel Wella;I don't like it;0.0
+42;1;919;Sagrada Familia;I hate it;-0.8
+43;8;416;Park Güell;I like it;0.0
+44;1;844;Park Güell;I don't like it;0.0
+45;6;958;Park Güell;I like it;0.0
+46;9;981;Sagrada Familia;I like it;0.0
+47;1;479;Hotel Wella;I hate it;-0.8
+48;10;293;Sagrada Familia;I like it;0.0
+49;5;811;Hotel Wella;I love it;0.5
+50;2;289;Hotel Wella;I don't like it;0.0
+51;9;835;Park Güell;I like it;0.0
+52;5;816;Park Güell;I love it;0.5
+53;6;627;Sagrada Familia;I love it;0.5
+54;10;382;Hotel Wella;I like it;0.0
+55;5;1000;Park Güell;I like it;0.0
+56;8;429;Park Güell;I like it;0.0
+57;1;320;Sagrada Familia;I hate it;-0.8
+58;6;653;Hotel Wella;I love it;0.5
+59;10;549;Park Güell;I love it;0.5
+60;6;649;Sagrada Familia;I love it;0.5
+61;8;181;Hotel Wella;I love it;0.5
+62;7;80;Park Güell;I love it;0.5
+63;7;367;Park Güell;I like it;0.0
+64;7;849;Sagrada Familia;I like it;0.0
+65;4;800;Sagrada Familia;I don't like it;0.0
+66;3;254;Sagrada Familia;I don't like it;0.0
+67;9;268;Hotel Wella;I love it;0.5
+68;6;33;Park Güell;I like it;0.0
+69;2;334;Sagrada Familia;I hate it;-0.8
+70;7;254;Park Güell;I love it;0.5
+71;1;887;Sagrada Familia;I don't like it;0.0
+72;3;83;Park Güell;I don't like it;0.0
+73;6;807;Sagrada Familia;I like it;0.0
+74;10;938;Sagrada Familia;I like it;0.0
+75;6;563;Park Güell;I love it;0.5
+76;1;992;Sagrada Familia;I hate it;-0.8
+77;5;772;Sagrada Familia;I love it;0.5
+78;4;560;Park Güell;I hate it;-0.8
+79;10;687;Sagrada Familia;I love it;0.5
+80;1;367;Park Güell;I don't like it;0.0
+81;3;881;Sagrada Familia;I hate it;-0.8
+82;9;636;Park Güell;I love it;0.5
+83;2;759;Park Güell;I don't like it;0.0
+84;5;745;Hotel Wella;I love it;0.5
+85;8;442;Park Güell;I like it;0.0
+86;9;790;Hotel Wella;I love it;0.5
+87;6;648;Sagrada Familia;I like it;0.0
+88;9;217;Sagrada Familia;I like it;0.0
+89;7;952;Park Güell;I like it;0.0
+90;7;674;Park Güell;I love it;0.5
+91;3;810;Hotel Wella;I don't like it;0.0
+92;4;202;Park Güell;I don't like it;0.0
+93;4;831;Park Güell;I hate it;-0.8
+94;7;267;Park Güell;I like it;0.0
+95;4;937;Sagrada Familia;I hate it;-0.8
+96;3;660;Park Güell;I hate it;-0.8
+97;6;496;Park Güell;I love it;0.5
+98;6;971;Hotel Wella;I love it;0.5
+99;1;418;Park Güell;I don't like it;0.0
+100;3;223;Sagrada Familia;I don't like it;0.0
+101;10;569;Hotel Wella;I love it;0.5
+102;3;913;Hotel Wella;I hate it;-0.8
+103;8;817;Hotel Wella;I love it;0.5
+104;7;286;Sagrada Familia;I like it;0.0
+105;1;720;Hotel Wella;I don't like it;0.0
+106;1;592;Hotel Wella;I hate it;-0.8
+107;4;617;Hotel Wella;I hate it;-0.8
+108;8;384;Sagrada Familia;I love it;0.5
+109;9;205;Hotel Wella;I love it;0.5
+110;8;799;Park Güell;I like it;0.0
+111;6;40;Park Güell;I love it;0.5
+112;4;770;Hotel Wella;I don't like it;0.0
+113;7;234;Park Güell;I like it;0.0
+114;7;766;Park Güell;I love it;0.5
+115;3;669;Hotel Wella;I hate it;-0.8
+116;2;42;Sagrada Familia;I don't like it;0.0
+117;4;820;Park Güell;I don't like it;0.0
+118;6;185;Park Güell;I like it;0.0
+119;6;971;Hotel Wella;I like it;0.0
+120;3;641;Sagrada Familia;I hate it;-0.8
+121;4;377;Hotel Wella;I don't like it;0.0
+122;10;223;Sagrada Familia;I love it;0.5
+123;3;981;Park Güell;I hate it;-0.8
+124;3;545;Sagrada Familia;I hate it;-0.8
+125;4;804;Sagrada Familia;I don't like it;0.0
+126;8;164;Sagrada Familia;I love it;0.5
+127;4;375;Park Güell;I hate it;-0.8
+128;4;449;Park Güell;I don't like it;0.0
+129;4;407;Sagrada Familia;I don't like it;0.0
+130;6;107;Park Güell;I like it;0.0
+131;2;552;Hotel Wella;I hate it;-0.8
+132;1;898;Hotel Wella;I don't like it;0.0
+133;6;580;Park Güell;I like it;0.0
+134;4;276;Hotel Wella;I hate it;-0.8
+135;4;689;Hotel Wella;I hate it;-0.8
+136;6;630;Sagrada Familia;I love it;0.5
+137;4;135;Hotel Wella;I hate it;-0.8
+138;4;648;Park Güell;I hate it;-0.8
+139;6;197;Sagrada Familia;I love it;0.5
+140;1;266;Hotel Wella;I don't like it;0.0
+141;6;597;Hotel Wella;I like it;0.0
+142;3;561;Park Güell;I don't like it;0.0
+143;2;782;Hotel Wella;I don't like it;0.0
+144;10;38;Sagrada Familia;I love it;0.5
+145;5;282;Hotel Wella;I love it;0.5
+146;7;80;Sagrada Familia;I like it;0.0
+147;3;680;Park Güell;I hate it;-0.8
+148;10;593;Hotel Wella;I love it;0.5
+149;8;483;Hotel Wella;I love it;0.5
+150;9;881;Park Güell;I love it;0.5
+151;10;193;Sagrada Familia;I like it;0.0
+152;6;939;Park Güell;I love it;0.5
+153;5;782;Hotel Wella;I love it;0.5
+154;4;739;Park Güell;I don't like it;0.0
+155;1;64;Hotel Wella;I hate it;-0.8
+156;9;206;Park Güell;I like it;0.0
+157;4;572;Park Güell;I hate it;-0.8
+158;9;581;Park Güell;I love it;0.5
+159;7;757;Park Güell;I love it;0.5
+160;1;740;Sagrada Familia;I don't like it;0.0
+161;6;403;Park Güell;I like it;0.0
+162;5;478;Park Güell;I love it;0.5
+163;9;335;Park Güell;I love it;0.5
+164;8;637;Park Güell;I love it;0.5
+165;2;222;Hotel Wella;I don't like it;0.0
+166;8;78;Hotel Wella;I like it;0.0
+167;7;261;Sagrada Familia;I like it;0.0
+168;8;894;Park Güell;I love it;0.5
+169;1;297;Park Güell;I hate it;-0.8
+170;5;291;Park Güell;I love it;0.5
+171;3;606;Sagrada Familia;I don't like it;0.0
+172;7;434;Park Güell;I like it;0.0
+173;6;642;Hotel Wella;I like it;0.0
+174;5;702;Park Güell;I love it;0.5
+175;1;735;Park Güell;I hate it;-0.8
+176;3;574;Park Güell;I don't like it;0.0
+177;8;707;Sagrada Familia;I like it;0.0
+178;7;983;Hotel Wella;I like it;0.0
+179;5;853;Hotel Wella;I love it;0.5
+180;3;110;Hotel Wella;I hate it;-0.8
+181;6;555;Park Güell;I like it;0.0
+182;5;351;Park Güell;I love it;0.5
+183;6;991;Sagrada Familia;I love it;0.5
+184;9;331;Sagrada Familia;I love it;0.5
+185;2;415;Park Güell;I don't like it;0.0
+186;4;901;Park Güell;I hate it;-0.8
+187;4;164;Park Güell;I hate it;-0.8
+188;4;453;Park Güell;I hate it;-0.8
+189;9;285;Hotel Wella;I like it;0.0
+190;6;583;Park Güell;I love it;0.5
+191;6;435;Hotel Wella;I like it;0.0
+192;2;39;Hotel Wella;I hate it;-0.8
+193;8;491;Hotel Wella;I love it;0.5
+194;3;431;Hotel Wella;I don't like it;0.0
+195;2;825;Park Güell;I hate it;-0.8
+196;10;353;Hotel Wella;I like it;0.0
+197;8;690;Park Güell;I love it;0.5
+198;9;379;Park Güell;I love it;0.5
+199;7;437;Hotel Wella;I like it;0.0
+200;3;588;Sagrada Familia;I hate it;-0.8
+201;3;970;Sagrada Familia;I hate it;-0.8
+202;2;615;Park Güell;I hate it;-0.8
+203;8;732;Sagrada Familia;I love it;0.5
+204;5;48;Park Güell;I like it;0.0
+205;3;378;Hotel Wella;I hate it;-0.8
+206;6;75;Sagrada Familia;I love it;0.5
+207;2;870;Park Güell;I hate it;-0.8
+208;1;302;Sagrada Familia;I don't like it;0.0
+209;7;100;Sagrada Familia;I love it;0.5
+210;5;316;Hotel Wella;I love it;0.5
+211;1;518;Hotel Wella;I hate it;-0.8
+212;2;800;Park Güell;I don't like it;0.0
+213;4;832;Sagrada Familia;I hate it;-0.8
+214;2;220;Park Güell;I hate it;-0.8
+215;5;224;Sagrada Familia;I love it;0.5
+216;1;495;Hotel Wella;I hate it;-0.8
+217;9;834;Park Güell;I like it;0.0
+218;1;385;Hotel Wella;I hate it;-0.8
+219;1;179;Hotel Wella;I don't like it;0.0
+220;4;137;Park Güell;I don't like it;0.0
+221;6;392;Hotel Wella;I like it;0.0
+222;10;283;Hotel Wella;I love it;0.5
+223;9;876;Hotel Wella;I love it;0.5
+224;5;5;Park Güell;I like it;0.0
+225;2;5;Hotel Wella;I hate it;-0.8
+226;6;671;Hotel Wella;I like it;0.0
+227;4;975;Park Güell;I hate it;-0.8
+228;1;88;Hotel Wella;I don't like it;0.0
+229;5;494;Hotel Wella;I like it;0.0
+230;5;484;Sagrada Familia;I like it;0.0
+231;9;98;Sagrada Familia;I love it;0.5
+232;5;73;Park Güell;I like it;0.0
+233;1;114;Sagrada Familia;I don't like it;0.0
+234;3;972;Hotel Wella;I don't like it;0.0
+235;4;966;Park Güell;I hate it;-0.8
+236;6;934;Sagrada Familia;I love it;0.5
+237;10;59;Hotel Wella;I love it;0.5
+238;7;101;Park Güell;I love it;0.5
+239;7;431;Park Güell;I like it;0.0
+240;10;311;Park Güell;I love it;0.5
+241;8;440;Hotel Wella;I love it;0.5
+242;7;25;Sagrada Familia;I like it;0.0
+243;7;423;Park Güell;I love it;0.5
+244;3;326;Hotel Wella;I don't like it;0.0
+245;8;181;Sagrada Familia;I love it;0.5
+246;10;47;Hotel Wella;I like it;0.0
+247;7;241;Hotel Wella;I like it;0.0
+248;10;537;Sagrada Familia;I love it;0.5
+249;1;762;Sagrada Familia;I don't like it;0.0
+250;2;3;Sagrada Familia;I hate it;-0.8
+251;9;89;Sagrada Familia;I like it;0.0
+252;7;178;Park Güell;I love it;0.5
+253;7;583;Hotel Wella;I love it;0.5
+254;8;160;Hotel Wella;I like it;0.0
+255;1;84;Park Güell;I hate it;-0.8
+256;10;361;Hotel Wella;I like it;0.0
+257;8;859;Sagrada Familia;I love it;0.5
+258;10;440;Park Güell;I like it;0.0
+259;10;946;Sagrada Familia;I love it;0.5
+260;3;606;Hotel Wella;I don't like it;0.0
+261;4;889;Park Güell;I don't like it;0.0
+262;10;85;Hotel Wella;I like it;0.0
+263;1;158;Park Güell;I hate it;-0.8
+264;10;546;Hotel Wella;I like it;0.0
+265;3;247;Park Güell;I don't like it;0.0
+266;2;617;Sagrada Familia;I don't like it;0.0
+267;8;950;Park Güell;I love it;0.5
+268;3;304;Sagrada Familia;I hate it;-0.8
+269;8;1000;Sagrada Familia;I like it;0.0
+270;6;450;Hotel Wella;I love it;0.5
+271;4;526;Park Güell;I don't like it;0.0
+272;1;769;Sagrada Familia;I don't like it;0.0
+273;9;615;Sagrada Familia;I like it;0.0
+274;3;899;Sagrada Familia;I hate it;-0.8
+275;9;892;Hotel Wella;I like it;0.0
+276;6;493;Hotel Wella;I like it;0.0
+277;9;361;Park Güell;I like it;0.0
+278;9;674;Sagrada Familia;I like it;0.0
+279;6;644;Hotel Wella;I like it;0.0
+280;10;456;Hotel Wella;I like it;0.0
+281;1;540;Park Güell;I hate it;-0.8
+282;9;574;Sagrada Familia;I like it;0.0
+283;10;785;Hotel Wella;I love it;0.5
+284;2;911;Hotel Wella;I hate it;-0.8
+285;8;294;Hotel Wella;I like it;0.0
+286;8;372;Sagrada Familia;I love it;0.5
+287;10;159;Park Güell;I like it;0.0
+288;8;79;Park Güell;I love it;0.5
+289;6;825;Sagrada Familia;I love it;0.5
+290;4;571;Hotel Wella;I hate it;-0.8
+291;1;266;Hotel Wella;I hate it;-0.8
+292;6;440;Hotel Wella;I like it;0.0
+293;2;575;Park Güell;I hate it;-0.8
+294;4;466;Sagrada Familia;I don't like it;0.0
+295;1;733;Park Güell;I don't like it;0.0
+296;8;484;Sagrada Familia;I like it;0.0
+297;6;88;Park Güell;I love it;0.5
+298;9;612;Sagrada Familia;I like it;0.0
+299;3;684;Sagrada Familia;I don't like it;0.0
+300;1;722;Sagrada Familia;I don't like it;0.0
+301;9;761;Park Güell;I love it;0.5
+302;4;631;Sagrada Familia;I don't like it;0.0
+303;3;95;Park Güell;I hate it;-0.8
+304;1;335;Hotel Wella;I don't like it;0.0
+305;6;762;Hotel Wella;I like it;0.0
+306;6;121;Hotel Wella;I love it;0.5
+307;3;928;Sagrada Familia;I don't like it;0.0
+308;1;986;Hotel Wella;I don't like it;0.0
+309;3;510;Park Güell;I don't like it;0.0
+310;8;831;Hotel Wella;I love it;0.5
+311;1;341;Hotel Wella;I don't like it;0.0
+312;9;89;Hotel Wella;I love it;0.5
+313;1;76;Hotel Wella;I hate it;-0.8
+314;2;386;Sagrada Familia;I don't like it;0.0
+315;6;896;Park Güell;I like it;0.0
+316;6;457;Park Güell;I like it;0.0
+317;2;292;Park Güell;I hate it;-0.8
+318;4;6;Sagrada Familia;I don't like it;0.0
+319;4;70;Park Güell;I don't like it;0.0
+320;2;156;Park Güell;I don't like it;0.0
+321;3;658;Park Güell;I don't like it;0.0
+322;6;235;Sagrada Familia;I like it;0.0
+323;8;626;Park Güell;I love it;0.5
+324;5;706;Sagrada Familia;I like it;0.0
+325;3;433;Hotel Wella;I don't like it;0.0
+326;4;137;Park Güell;I don't like it;0.0
+327;7;249;Park Güell;I love it;0.5
+328;1;312;Park Güell;I don't like it;0.0
+329;10;413;Hotel Wella;I like it;0.0
+330;9;511;Hotel Wella;I like it;0.0
+331;7;665;Hotel Wella;I like it;0.0
+332;2;35;Park Güell;I don't like it;0.0
+333;3;536;Sagrada Familia;I don't like it;0.0
+334;8;125;Hotel Wella;I love it;0.5
+335;3;844;Hotel Wella;I don't like it;0.0
+336;1;521;Sagrada Familia;I hate it;-0.8
+337;5;191;Sagrada Familia;I love it;0.5
+338;3;27;Sagrada Familia;I don't like it;0.0
+339;5;6;Hotel Wella;I like it;0.0
+340;4;382;Park Güell;I don't like it;0.0
+341;6;956;Hotel Wella;I love it;0.5
+342;3;503;Sagrada Familia;I hate it;-0.8
+343;7;428;Park Güell;I love it;0.5
+344;1;519;Hotel Wella;I hate it;-0.8
+345;9;855;Park Güell;I love it;0.5
+346;6;633;Sagrada Familia;I love it;0.5
+347;2;309;Sagrada Familia;I don't like it;0.0
+348;9;404;Park Güell;I like it;0.0
+349;6;684;Park Güell;I love it;0.5
+350;6;933;Park Güell;I like it;0.0
+351;10;323;Park Güell;I love it;0.5
+352;6;556;Hotel Wella;I love it;0.5
+353;1;997;Hotel Wella;I hate it;-0.8
+354;1;742;Hotel Wella;I don't like it;0.0
+355;5;16;Sagrada Familia;I love it;0.5
+356;10;864;Sagrada Familia;I love it;0.5
+357;3;460;Sagrada Familia;I hate it;-0.8
+358;5;746;Sagrada Familia;I like it;0.0
+359;8;322;Park Güell;I love it;0.5
+360;10;838;Hotel Wella;I love it;0.5
+361;2;465;Park Güell;I hate it;-0.8
+362;7;365;Park Güell;I like it;0.0
+363;6;919;Hotel Wella;I like it;0.0
+364;9;857;Sagrada Familia;I love it;0.5
+365;3;239;Hotel Wella;I don't like it;0.0
+366;4;829;Park Güell;I hate it;-0.8
+367;7;577;Park Güell;I love it;0.5
+368;10;581;Hotel Wella;I like it;0.0
+369;5;679;Hotel Wella;I like it;0.0
+370;10;607;Sagrada Familia;I like it;0.0
+371;8;34;Sagrada Familia;I love it;0.5
+372;2;776;Sagrada Familia;I hate it;-0.8
+373;9;849;Sagrada Familia;I love it;0.5
+374;4;108;Park Güell;I hate it;-0.8
+375;9;457;Sagrada Familia;I love it;0.5
+376;3;540;Sagrada Familia;I hate it;-0.8
+377;10;12;Hotel Wella;I love it;0.5
+378;6;883;Sagrada Familia;I love it;0.5
+379;9;944;Sagrada Familia;I like it;0.0
+380;2;168;Hotel Wella;I don't like it;0.0
+381;1;857;Sagrada Familia;I don't like it;0.0
+382;8;764;Hotel Wella;I like it;0.0
+383;4;269;Sagrada Familia;I hate it;-0.8
+384;9;830;Sagrada Familia;I love it;0.5
+385;10;771;Hotel Wella;I love it;0.5
+386;10;207;Sagrada Familia;I like it;0.0
+387;6;682;Park Güell;I like it;0.0
+388;1;496;Sagrada Familia;I hate it;-0.8
+389;8;678;Hotel Wella;I love it;0.5
+390;9;605;Hotel Wella;I love it;0.5
+391;8;400;Park Güell;I like it;0.0
+392;1;768;Hotel Wella;I hate it;-0.8
+393;5;730;Sagrada Familia;I love it;0.5
+394;3;772;Park Güell;I hate it;-0.8
+395;6;858;Sagrada Familia;I like it;0.0
+396;4;723;Park Güell;I don't like it;0.0
+397;2;782;Hotel Wella;I don't like it;0.0
+398;3;97;Park Güell;I hate it;-0.8
+399;4;328;Park Güell;I hate it;-0.8
+400;2;207;Sagrada Familia;I don't like it;0.0
+401;10;916;Park Güell;I love it;0.5
+402;7;936;Park Güell;I like it;0.0
+403;7;567;Park Güell;I like it;0.0
+404;1;649;Park Güell;I hate it;-0.8
+405;5;391;Sagrada Familia;I love it;0.5
+406;4;88;Park Güell;I don't like it;0.0
+407;8;964;Sagrada Familia;I like it;0.0
+408;5;975;Park Güell;I like it;0.0
+409;5;205;Sagrada Familia;I love it;0.5
+410;4;883;Park Güell;I don't like it;0.0
+411;1;494;Sagrada Familia;I hate it;-0.8
+412;7;333;Hotel Wella;I like it;0.0
+413;7;750;Sagrada Familia;I like it;0.0
+414;1;721;Sagrada Familia;I hate it;-0.8
+415;7;48;Hotel Wella;I like it;0.0
+416;4;94;Hotel Wella;I don't like it;0.0
+417;3;189;Hotel Wella;I don't like it;0.0
+418;4;885;Sagrada Familia;I hate it;-0.8
+419;6;608;Park Güell;I like it;0.0
+420;10;263;Sagrada Familia;I like it;0.0
+421;7;761;Sagrada Familia;I like it;0.0
+422;2;642;Sagrada Familia;I don't like it;0.0
+423;10;768;Park Güell;I love it;0.5
+424;2;772;Park Güell;I don't like it;0.0
+425;9;56;Park Güell;I like it;0.0
+426;3;1000;Park Güell;I don't like it;0.0
+427;1;929;Park Güell;I don't like it;0.0
+428;9;338;Park Güell;I love it;0.5
+429;6;701;Park Güell;I love it;0.5
+430;1;841;Park Güell;I hate it;-0.8
+431;10;973;Park Güell;I like it;0.0
+432;8;595;Sagrada Familia;I love it;0.5
+433;10;765;Park Güell;I like it;0.0
+434;8;628;Park Güell;I like it;0.0
+435;4;259;Sagrada Familia;I hate it;-0.8
+436;2;918;Hotel Wella;I don't like it;0.0
+437;4;1000;Hotel Wella;I hate it;-0.8
+438;4;519;Sagrada Familia;I don't like it;0.0
+439;8;843;Hotel Wella;I love it;0.5
+440;8;866;Sagrada Familia;I like it;0.0
+441;7;602;Sagrada Familia;I love it;0.5
+442;6;356;Park Güell;I like it;0.0
+443;6;808;Park Güell;I love it;0.5
+444;6;268;Park Güell;I love it;0.5
+445;3;385;Sagrada Familia;I don't like it;0.0
+446;1;257;Sagrada Familia;I hate it;-0.8
+447;10;156;Sagrada Familia;I like it;0.0
+448;7;8;Park Güell;I love it;0.5
+449;6;344;Sagrada Familia;I love it;0.5
+450;7;192;Sagrada Familia;I like it;0.0
+451;2;124;Park Güell;I hate it;-0.8
+452;9;96;Sagrada Familia;I love it;0.5
+453;9;731;Park Güell;I like it;0.0
+454;2;419;Park Güell;I hate it;-0.8
+455;5;268;Park Güell;I love it;0.5
+456;5;739;Sagrada Familia;I love it;0.5
+457;4;268;Park Güell;I hate it;-0.8
+458;3;215;Park Güell;I don't like it;0.0
+459;2;890;Park Güell;I hate it;-0.8
+460;8;248;Park Güell;I love it;0.5
+461;5;120;Park Güell;I love it;0.5
+462;1;654;Hotel Wella;I hate it;-0.8
+463;7;499;Sagrada Familia;I love it;0.5
+464;8;663;Park Güell;I like it;0.0
+465;9;480;Hotel Wella;I like it;0.0
+466;10;651;Sagrada Familia;I love it;0.5
+467;3;478;Park Güell;I hate it;-0.8
+468;2;462;Sagrada Familia;I hate it;-0.8
+469;6;6;Hotel Wella;I love it;0.5
+470;2;685;Park Güell;I hate it;-0.8
+471;5;277;Hotel Wella;I like it;0.0
+472;1;488;Sagrada Familia;I hate it;-0.8
+473;4;810;Hotel Wella;I don't like it;0.0
+474;10;751;Sagrada Familia;I love it;0.5
+475;5;790;Hotel Wella;I love it;0.5
+476;3;180;Hotel Wella;I don't like it;0.0
+477;2;769;Sagrada Familia;I don't like it;0.0
+478;1;271;Sagrada Familia;I don't like it;0.0
+479;2;197;Hotel Wella;I hate it;-0.8
+480;6;889;Hotel Wella;I love it;0.5
+481;4;685;Park Güell;I hate it;-0.8
+482;10;117;Hotel Wella;I like it;0.0
+483;2;106;Sagrada Familia;I don't like it;0.0
+484;3;914;Park Güell;I don't like it;0.0
+485;9;272;Park Güell;I love it;0.5
+486;4;217;Hotel Wella;I don't like it;0.0
+487;10;125;Hotel Wella;I like it;0.0
+488;1;936;Hotel Wella;I hate it;-0.8
+489;3;663;Sagrada Familia;I hate it;-0.8
+490;5;107;Hotel Wella;I like it;0.0
+491;2;57;Hotel Wella;I don't like it;0.0
+492;3;308;Hotel Wella;I hate it;-0.8
+493;5;713;Sagrada Familia;I like it;0.0
+494;5;715;Sagrada Familia;I love it;0.5
+495;2;724;Hotel Wella;I hate it;-0.8
+496;7;256;Sagrada Familia;I love it;0.5
+497;3;654;Hotel Wella;I don't like it;0.0
+498;2;866;Hotel Wella;I hate it;-0.8
+499;6;177;Sagrada Familia;I love it;0.5
+500;3;487;Hotel Wella;I don't like it;0.0
+501;6;398;Hotel Wella;I love it;0.5
+502;4;594;Park Güell;I hate it;-0.8
+503;9;613;Sagrada Familia;I love it;0.5
+504;2;91;Park Güell;I don't like it;0.0
+505;8;921;Hotel Wella;I love it;0.5
+506;1;902;Park Güell;I don't like it;0.0
+507;9;669;Park Güell;I love it;0.5
+508;10;374;Park Güell;I like it;0.0
+509;4;789;Sagrada Familia;I don't like it;0.0
+510;7;942;Park Güell;I love it;0.5
+511;2;520;Hotel Wella;I hate it;-0.8
+512;6;807;Park Güell;I love it;0.5
+513;10;270;Park Güell;I like it;0.0
+514;1;691;Hotel Wella;I hate it;-0.8
+515;8;135;Park Güell;I like it;0.0
+516;4;274;Hotel Wella;I don't like it;0.0
+517;2;795;Sagrada Familia;I don't like it;0.0
+518;6;984;Sagrada Familia;I like it;0.0
+519;8;315;Park Güell;I love it;0.5
+520;8;609;Sagrada Familia;I like it;0.0
+521;6;236;Hotel Wella;I love it;0.5
+522;4;701;Hotel Wella;I hate it;-0.8
+523;7;287;Hotel Wella;I like it;0.0
+524;4;985;Park Güell;I don't like it;0.0
+525;6;746;Park Güell;I like it;0.0
+526;1;35;Sagrada Familia;I hate it;-0.8
+527;6;611;Hotel Wella;I like it;0.0
+528;9;499;Park Güell;I like it;0.0
+529;2;2;Hotel Wella;I hate it;-0.8
+530;3;425;Park Güell;I don't like it;0.0
+531;8;744;Hotel Wella;I love it;0.5
+532;9;459;Park Güell;I love it;0.5
+533;10;509;Park Güell;I like it;0.0
+534;6;472;Park Güell;I love it;0.5
+535;2;342;Sagrada Familia;I don't like it;0.0
+536;3;830;Hotel Wella;I don't like it;0.0
+537;6;62;Sagrada Familia;I love it;0.5
+538;8;33;Sagrada Familia;I like it;0.0
+539;8;992;Hotel Wella;I like it;0.0
+540;2;144;Park Güell;I hate it;-0.8
+541;10;92;Sagrada Familia;I love it;0.5
+542;6;314;Hotel Wella;I love it;0.5
+543;10;118;Park Güell;I love it;0.5
+544;7;746;Sagrada Familia;I love it;0.5
+545;6;286;Hotel Wella;I love it;0.5
+546;10;59;Sagrada Familia;I love it;0.5
+547;9;32;Hotel Wella;I like it;0.0
+548;10;200;Hotel Wella;I like it;0.0
+549;10;615;Sagrada Familia;I like it;0.0
+550;5;523;Hotel Wella;I love it;0.5
+551;9;729;Sagrada Familia;I like it;0.0
+552;8;602;Park Güell;I love it;0.5
+553;2;593;Hotel Wella;I hate it;-0.8
+554;6;42;Sagrada Familia;I love it;0.5
+555;3;201;Park Güell;I don't like it;0.0
+556;9;552;Sagrada Familia;I love it;0.5
+557;7;785;Sagrada Familia;I like it;0.0
+558;5;112;Hotel Wella;I love it;0.5
+559;10;266;Sagrada Familia;I like it;0.0
+560;10;332;Hotel Wella;I like it;0.0
+561;2;881;Park Güell;I hate it;-0.8
+562;4;926;Hotel Wella;I don't like it;0.0
+563;1;277;Sagrada Familia;I don't like it;0.0
+564;7;759;Sagrada Familia;I love it;0.5
+565;7;528;Sagrada Familia;I like it;0.0
+566;8;740;Sagrada Familia;I like it;0.0
+567;8;71;Park Güell;I love it;0.5
+568;10;24;Park Güell;I like it;0.0
+569;10;1;Hotel Wella;I like it;0.0
+570;1;159;Sagrada Familia;I hate it;-0.8
+571;9;633;Sagrada Familia;I like it;0.0
+572;5;879;Park Güell;I like it;0.0
+573;6;519;Park Güell;I love it;0.5
+574;3;692;Hotel Wella;I hate it;-0.8
+575;6;420;Park Güell;I like it;0.0
+576;3;89;Hotel Wella;I hate it;-0.8
+577;9;728;Sagrada Familia;I like it;0.0
+578;8;392;Park Güell;I love it;0.5
+579;5;353;Hotel Wella;I like it;0.0
+580;2;704;Hotel Wella;I don't like it;0.0
+581;2;589;Park Güell;I don't like it;0.0
+582;8;523;Park Güell;I like it;0.0
+583;4;61;Sagrada Familia;I don't like it;0.0
+584;9;407;Park Güell;I love it;0.5
+585;3;793;Hotel Wella;I hate it;-0.8
+586;1;418;Hotel Wella;I hate it;-0.8
+587;8;626;Sagrada Familia;I love it;0.5
+588;9;706;Park Güell;I love it;0.5
+589;6;879;Hotel Wella;I love it;0.5
+590;7;786;Hotel Wella;I like it;0.0
+591;9;366;Sagrada Familia;I like it;0.0
+592;2;901;Park Güell;I hate it;-0.8
+593;3;60;Sagrada Familia;I don't like it;0.0
+594;6;762;Hotel Wella;I love it;0.5
+595;7;159;Hotel Wella;I like it;0.0
+596;2;64;Sagrada Familia;I don't like it;0.0
+597;3;916;Sagrada Familia;I hate it;-0.8
+598;10;627;Park Güell;I like it;0.0
+599;2;754;Hotel Wella;I don't like it;0.0
+600;7;660;Sagrada Familia;I love it;0.5
+601;4;568;Park Güell;I don't like it;0.0
+602;2;197;Sagrada Familia;I hate it;-0.8
+603;10;199;Hotel Wella;I like it;0.0
+604;7;469;Sagrada Familia;I like it;0.0
+605;9;326;Hotel Wella;I love it;0.5
+606;2;362;Park Güell;I don't like it;0.0
+607;1;741;Sagrada Familia;I don't like it;0.0
+608;3;518;Sagrada Familia;I hate it;-0.8
+609;10;622;Park Güell;I love it;0.5
+610;5;656;Sagrada Familia;I like it;0.0
+611;1;689;Park Güell;I don't like it;0.0
+612;6;476;Park Güell;I love it;0.5
+613;8;209;Hotel Wella;I love it;0.5
+614;4;507;Park Güell;I don't like it;0.0
+615;1;367;Hotel Wella;I hate it;-0.8
+616;2;777;Sagrada Familia;I don't like it;0.0
+617;8;474;Hotel Wella;I love it;0.5
+618;2;419;Park Güell;I don't like it;0.0
+619;9;528;Park Güell;I like it;0.0
+620;5;448;Park Güell;I like it;0.0
+621;7;104;Hotel Wella;I love it;0.5
+622;4;515;Sagrada Familia;I hate it;-0.8
+623;6;674;Sagrada Familia;I love it;0.5
+624;8;110;Sagrada Familia;I love it;0.5
+625;5;73;Park Güell;I like it;0.0
+626;8;846;Sagrada Familia;I like it;0.0
+627;4;285;Park Güell;I hate it;-0.8
+628;4;946;Sagrada Familia;I don't like it;0.0
+629;7;585;Park Güell;I like it;0.0
+630;9;839;Sagrada Familia;I love it;0.5
+631;10;795;Park Güell;I love it;0.5
+632;5;428;Hotel Wella;I like it;0.0
+633;3;480;Sagrada Familia;I hate it;-0.8
+634;7;449;Park Güell;I love it;0.5
+635;10;373;Hotel Wella;I love it;0.5
+636;10;732;Sagrada Familia;I like it;0.0
+637;5;278;Sagrada Familia;I love it;0.5
+638;9;345;Park Güell;I love it;0.5
+639;1;615;Park Güell;I hate it;-0.8
+640;2;552;Sagrada Familia;I don't like it;0.0
+641;2;857;Hotel Wella;I don't like it;0.0
+642;3;665;Sagrada Familia;I hate it;-0.8
+643;7;909;Park Güell;I love it;0.5
+644;4;392;Park Güell;I hate it;-0.8
+645;4;10;Park Güell;I hate it;-0.8
+646;6;406;Hotel Wella;I love it;0.5
+647;5;794;Park Güell;I like it;0.0
+648;2;63;Sagrada Familia;I don't like it;0.0
+649;7;440;Park Güell;I love it;0.5
+650;7;298;Sagrada Familia;I love it;0.5
+651;5;144;Hotel Wella;I love it;0.5
+652;10;846;Sagrada Familia;I like it;0.0
+653;10;348;Park Güell;I love it;0.5
+654;5;603;Park Güell;I like it;0.0
+655;2;167;Hotel Wella;I don't like it;0.0
+656;10;247;Sagrada Familia;I love it;0.5
+657;1;453;Park Güell;I don't like it;0.0
+658;1;773;Hotel Wella;I don't like it;0.0
+659;8;383;Park Güell;I like it;0.0
+660;2;504;Hotel Wella;I don't like it;0.0
+661;7;811;Park Güell;I like it;0.0
+662;6;256;Hotel Wella;I love it;0.5
+663;10;938;Park Güell;I like it;0.0
+664;7;805;Hotel Wella;I love it;0.5
+665;8;154;Hotel Wella;I love it;0.5
+666;9;986;Hotel Wella;I like it;0.0
+667;9;352;Sagrada Familia;I love it;0.5
+668;4;473;Sagrada Familia;I don't like it;0.0
+669;4;3;Sagrada Familia;I hate it;-0.8
+670;3;157;Hotel Wella;I don't like it;0.0
+671;1;118;Park Güell;I hate it;-0.8
+672;4;918;Hotel Wella;I don't like it;0.0
+673;9;293;Hotel Wella;I love it;0.5
+674;1;532;Sagrada Familia;I don't like it;0.0
+675;4;611;Sagrada Familia;I don't like it;0.0
+676;2;831;Park Güell;I don't like it;0.0
+677;1;94;Hotel Wella;I hate it;-0.8
+678;2;244;Hotel Wella;I don't like it;0.0
+679;7;715;Park Güell;I love it;0.5
+680;3;659;Sagrada Familia;I don't like it;0.0
+681;10;858;Park Güell;I love it;0.5
+682;8;925;Park Güell;I like it;0.0
+683;8;566;Sagrada Familia;I love it;0.5
+684;3;859;Park Güell;I don't like it;0.0
+685;2;495;Hotel Wella;I hate it;-0.8
+686;8;602;Hotel Wella;I like it;0.0
+687;10;839;Park Güell;I like it;0.0
+688;5;730;Hotel Wella;I like it;0.0
+689;1;561;Hotel Wella;I don't like it;0.0
+690;1;192;Park Güell;I don't like it;0.0
+691;9;191;Sagrada Familia;I love it;0.5
+692;5;207;Sagrada Familia;I like it;0.0
+693;3;72;Hotel Wella;I don't like it;0.0
+694;1;20;Sagrada Familia;I hate it;-0.8
+695;9;525;Sagrada Familia;I love it;0.5
+696;10;594;Park Güell;I love it;0.5
+697;8;172;Sagrada Familia;I like it;0.0
+698;7;871;Park Güell;I love it;0.5
+699;6;481;Sagrada Familia;I love it;0.5
+700;9;385;Sagrada Familia;I love it;0.5
+701;10;724;Sagrada Familia;I love it;0.5
+702;6;927;Park Güell;I like it;0.0
+703;6;226;Hotel Wella;I love it;0.5
+704;3;528;Sagrada Familia;I hate it;-0.8
+705;10;418;Sagrada Familia;I like it;0.0
+706;7;883;Sagrada Familia;I like it;0.0
+707;3;433;Hotel Wella;I hate it;-0.8
+708;2;721;Hotel Wella;I hate it;-0.8
+709;4;405;Park Güell;I don't like it;0.0
+710;5;538;Hotel Wella;I like it;0.0
+711;10;698;Park Güell;I like it;0.0
+712;10;22;Sagrada Familia;I love it;0.5
+713;1;180;Park Güell;I hate it;-0.8
+714;2;692;Hotel Wella;I hate it;-0.8
+715;3;112;Hotel Wella;I don't like it;0.0
+716;10;430;Park Güell;I like it;0.0
+717;4;943;Park Güell;I hate it;-0.8
+718;8;407;Sagrada Familia;I love it;0.5
+719;4;464;Park Güell;I don't like it;0.0
+720;2;752;Hotel Wella;I hate it;-0.8
+721;3;70;Park Güell;I hate it;-0.8
+722;10;690;Park Güell;I like it;0.0
+723;1;85;Sagrada Familia;I don't like it;0.0
+724;7;114;Hotel Wella;I love it;0.5
+725;1;586;Park Güell;I hate it;-0.8
+726;3;549;Sagrada Familia;I don't like it;0.0
+727;2;329;Hotel Wella;I don't like it;0.0
+728;5;691;Sagrada Familia;I like it;0.0
+729;1;575;Sagrada Familia;I hate it;-0.8
+730;1;638;Sagrada Familia;I hate it;-0.8
+731;10;866;Park Güell;I like it;0.0
+732;8;817;Sagrada Familia;I love it;0.5
+733;8;837;Sagrada Familia;I love it;0.5
+734;6;690;Park Güell;I love it;0.5
+735;3;825;Sagrada Familia;I hate it;-0.8
+736;6;260;Park Güell;I like it;0.0
+737;5;327;Park Güell;I like it;0.0
